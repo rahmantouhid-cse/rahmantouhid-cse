@@ -92,15 +92,15 @@
 <h1>5. Sale/Offer Banner Design</h1>
 <h3>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h3>
 <a href="https://www.figma.com/file/9lAXRmf1HrQJTZ3BEk2HgC/SuperSale">
-  <img src="SuperSale.png" alt="SuperSale" style="width:150px;height:150px;border:2">
+  <img src="SuperSale.png" alt="SuperSale" style="width:300px;height:300px;border:2">
 </a>
 <a href="https://www.figma.com/file/IL6BhiwcC7APnhSohBQdca/Nike-sale">
   <img src="NikeSuperSale.png" alt="NikeSuperSale" style="width:600px;height:300px;border:2">
 </a>
 <a href="https://www.figma.com/file/NZ4NDwnyxFqi9b8ThQB38F/Mcdonalds-discount">
-  <img src="McdonaldsOffer.png" alt="McdonaldsOffer" style="width:150px;height:150px;border:2">
+  <img src="McdonaldsOffer.png" alt="McdonaldsOffer" style="width:300px;height:300px;border:2">
 </a>
 <br>
 <a href="https://www.figma.com/file/UmDZQhR5tMkFTAsUyrPpwA/WitcherOffer">
-  <img src="WitcherOffer.png" alt="WitcherOffer" style="width:558px;height:150px;border:2">
+  <img src="WitcherOffer.png" alt="WitcherOffer" style="width:1100px;height:300px;border:2">
 </a>
