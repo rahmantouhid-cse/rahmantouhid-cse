@@ -89,7 +89,7 @@
   <img src="DarkMode2.png" alt="DarkMode" style="width:500px;height:350px;border:2">
 </a>
 
-<h1>5. Promosional/Sale Banner Design</h1>
+<h1>5. Promotional/Sale Banner Design</h1>
 <h3>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h3>
 &nbsp;
 <a href="https://www.figma.com/file/9lAXRmf1HrQJTZ3BEk2HgC/SuperSale">
