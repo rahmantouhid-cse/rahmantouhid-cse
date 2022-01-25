@@ -1,4 +1,10 @@
-
+ <video controls loop>
+  <source src="https://cdn.dribbble.com/users/1145170/screenshots/14034736/media/7a547c03a14fbfd18c647424a2afaacf.mp4" type="video/mp4">
+  </video>
+  
+  
+  
+  
 <h1 align="center">Hi 👋, I'm Touhidur Rahman</h1>
 <h3 align="center">A Passionate UI/UX Designer</h3>
 
@@ -16,9 +22,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/touhidur-rahman-548021196/](https://www.linkedin.com/in/touhidur-rahman-548021196/)
 
 
- <video controls loop>
-  <source src="https://cdn.dribbble.com/users/1145170/screenshots/14034736/media/7a547c03a14fbfd18c647424a2afaacf.mp4" type="video/mp4">
-  </video>
+
 
 
 <h3 align="left">Connect with me:</h3>
