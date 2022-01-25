@@ -33,5 +33,5 @@
 ## Demo
 
 Chef's Cuisine Website UI
-<img src="">
-https://www.figma.com/proto/3vnu9KmzUhzNDnmgJCQQkx/Chefs-Cuisine-Website?node-id=0%3A1
+<img src="chefs cuisine ui design.png" href="https://www.figma.com/proto/3vnu9KmzUhzNDnmgJCQQkx/Chefs-Cuisine-Website?node-id=0%3A1">
+
