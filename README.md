@@ -59,7 +59,7 @@
 <h3>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h3>
 
 <a href="https://www.figma.com/proto/64XuEOAKIpMHQaGET4Hdvi/Parallax">
-  <img src="nightsky-parallax.png" alt="nightsky-parallax" style="width:1203px;height:600px;border:2">
+  <img src="nightsky-parallax.png" alt="nightsky-parallax" style="width:955px;height:500px;border:2">
 </a>
 <h2>Slide In Effect</h2>
 <h3>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h3>
