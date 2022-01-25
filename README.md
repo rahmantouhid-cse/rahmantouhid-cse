@@ -28,7 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahmantouhid-cse&show_icons=true&locale=en" alt="rahmantouhid-cse" /></p>
 
 <br><br>
-<h1 align="center" style"background-color:tomato">Projects </h1>
+<h1 align="center" style"color:tomato">Projects </h1>
 <br><br>
 <h1>1. Chef's Cuisine Website UI</h1>
 
