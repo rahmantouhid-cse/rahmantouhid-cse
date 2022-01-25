@@ -37,3 +37,9 @@
 <a href="https://www.figma.com/proto/3vnu9KmzUhzNDnmgJCQQkx/Chefs-Cuisine-Website?node-id=0%3A1">
   <img src="chefs cuisine ui design.png" alt="chefs cuisine ui design" style="width:360px;height:463px;border:2">
 </a>
+<a href="https://www.figma.com/proto/3vnu9KmzUhzNDnmgJCQQkx/Chefs-Cuisine-Website?node-id=0%3A1">
+  <img src="2.png" alt="chefs cuisine ui design" style="width:360px;height:463px;border:2">
+</a>
+<a href="https://www.figma.com/proto/3vnu9KmzUhzNDnmgJCQQkx/Chefs-Cuisine-Website?node-id=0%3A1">
+  <img src="3.png" alt="chefs cuisine ui design" style="width:360px;height:463px;border:2">
+</a>
