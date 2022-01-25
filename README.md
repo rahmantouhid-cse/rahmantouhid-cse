@@ -36,13 +36,13 @@
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.figma.com/proto/3vnu9KmzUhzNDnmgJCQQkx/Chefs-Cuisine-Website?node-id=0%3A1">
+<a href="https://www.figma.com/proto/3vnu9KmzUhzNDnmgJCQQkx/Chefs-Cuisine-Website">
   <img src="chefs cuisine ui design.png" alt="chefs cuisine ui design" class="center" style="margin:auto;width:360px;height:463px;border:2">
 </a><br>
-<a href="https://www.figma.com/proto/3vnu9KmzUhzNDnmgJCQQkx/Chefs-Cuisine-Website?node-id=0%3A1">
+<a href="https://www.figma.com/proto/3vnu9KmzUhzNDnmgJCQQkx/Chefs-Cuisine-Website">
   <img src="2.png" alt="chefs cuisine ui design" style="width:396px;height:360px;border:2">
 </a>
-<a href="https://www.figma.com/proto/3vnu9KmzUhzNDnmgJCQQkx/Chefs-Cuisine-Website?node-id=0%3A1">
+<a href="https://www.figma.com/proto/3vnu9KmzUhzNDnmgJCQQkx/Chefs-Cuisine-Website">
   <img src="3.png" alt="chefs cuisine ui design" style="width:396px;height:360px;border:2">
 </a>
 
@@ -50,4 +50,13 @@
 <h1>2. Apple Landing Page</h1>
 
 <h3>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h3>
+<a href="https://www.figma.com/proto/aKL2Gm4PSbwFSktz4HNiFM/Apple-Landing-Page">
+  <img src="apple1.png" alt="chefs cuisine ui design" style="width:480px;height:218px;border:2">
+</a>
+<a href="https://www.figma.com/proto/aKL2Gm4PSbwFSktz4HNiFM/Apple-Landing-Page">
+  <img src="apple2.png" alt="chefs cuisine ui design" style="width:480px;height:218px;border:2">
+</a>
+<a href="https://www.figma.com/proto/aKL2Gm4PSbwFSktz4HNiFM/Apple-Landing-Page">
+  <img src="apple3.png" alt="chefs cuisine ui design" style="width:480px;height:218px;border:2">
+</a>
 
