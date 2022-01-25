@@ -97,6 +97,7 @@
 <a href="https://www.figma.com/file/NZ4NDwnyxFqi9b8ThQB38F/Mcdonalds-discount">
   <img src="McdonaldsOffer.png" alt="McdonaldsOffer" style="width:150px;height:150px;border:2">
 </a>
+<br>
 <a href="https://www.figma.com/file/9lAXRmf1HrQJTZ3BEk2HgC/SuperSale">
   <img src="SuperSale.png" alt="SuperSale" style="width:150px;height:150px;border:2">
 </a>
