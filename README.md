@@ -51,12 +51,7 @@
 
 <h3>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h3>
 <a href="https://www.figma.com/proto/aKL2Gm4PSbwFSktz4HNiFM/Apple-Landing-Page">
-  <img src="apple1.png" alt="chefs cuisine ui design" style="width:480px;height:218px;border:2">
+  <img src="apple.png" alt="chefs cuisine ui design" style="width:546px;height:865px;border:2">
 </a>
-<a href="https://www.figma.com/proto/aKL2Gm4PSbwFSktz4HNiFM/Apple-Landing-Page">
-  <img src="apple2.png" alt="chefs cuisine ui design" style="width:480px;height:218px;border:2">
-</a>
-<a href="https://www.figma.com/proto/aKL2Gm4PSbwFSktz4HNiFM/Apple-Landing-Page">
-  <img src="apple3.png" alt="chefs cuisine ui design" style="width:480px;height:218px;border:2">
-</a>
+
 
