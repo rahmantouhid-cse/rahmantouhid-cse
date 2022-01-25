@@ -71,8 +71,12 @@
 <h3>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h3>
 
 <a href="https://www.figma.com/proto/dZVrzcJT1PPZDBH6B8NSWd/AirpodsPro">
-  <img src="AirPodsSlideIn.png" alt="AirPodsSlideIn" style="width:1000px;height:560px;border:2">
+  <img src="AirPodsSlideIn.png" alt="AirPodsSlideIn" style="width:500px;height:280px;border:2">
 </a>
+<a href="https://www.figma.com/proto/dZVrzcJT1PPZDBH6B8NSWd/AirpodsPro">
+  <img src="AirPodsSlideIn1.png" alt="AirPodsSlideIn" style="width:500px;height:280px;border:2">
+</a>
+
 
 <h1>4. Dashboard Dark Mode Design</h1>
 <h3>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h3>
