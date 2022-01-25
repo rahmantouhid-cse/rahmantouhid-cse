@@ -3,7 +3,7 @@
 <body>
 
  <video controls loop>
-  <source src="https://cdn.dribbble.com/users/5933596/screenshots/16235595/media/21546c1e25fe9c40098f671e7f9d4abf.mp4" type="video/mp4">
+  <source src="video.mp4" type="video/mp4">
   </video>
 
   </body>
