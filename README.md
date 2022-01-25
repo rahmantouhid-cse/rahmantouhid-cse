@@ -93,11 +93,11 @@
   <img src="NikeSuperSale.png" alt="NikeSuperSale" style="width:300px;height:150px;border:2">
 </a>
 <a href="https://www.figma.com/file/NZ4NDwnyxFqi9b8ThQB38F/Mcdonalds-discount">
-  <img src="McdonaldsOffer.png" alt="McdonaldsOffer" style="width:300px;height:300px;border:2">
+  <img src="McdonaldsOffer.png" alt="McdonaldsOffer" style="width:1500px;height:150px;border:2">
 </a>
 <a href="https://www.figma.com/file/9lAXRmf1HrQJTZ3BEk2HgC/SuperSale">
-  <img src="SuperSale.png" alt="SuperSale" style="width:1255px;height:705px;border:2">
+  <img src="SuperSale.png" alt="SuperSale" style="width:150px;height:150px;border:2">
 </a>
 <a href="https://www.figma.com/file/UmDZQhR5tMkFTAsUyrPpwA/WitcherOffer">
-  <img src="WitcherOffer.png" alt="WitcherOffer" style="width:1255px;height:705px;border:2">
+  <img src="WitcherOffer.png" alt="WitcherOffer" style="width:558px;height:150px;border:2">
 </a>
