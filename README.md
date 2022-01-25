@@ -35,3 +35,8 @@
 Chef's Cuisine Website UI
 <img src="chefs cuisine ui design.png" href="https://www.figma.com/proto/3vnu9KmzUhzNDnmgJCQQkx/Chefs-Cuisine-Website?node-id=0%3A1">
 
+##demo
+
+<a href="your-hyper-link">
+  <img src="image.png" alt="HTML img link tutorial" style="width:42px;height:42px;border:0">
+</a>
