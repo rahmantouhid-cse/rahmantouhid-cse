@@ -40,10 +40,10 @@
   <img src="chefs cuisine ui design.png" alt="chefs cuisine ui design" class="center" style="margin:auto;width:360px;height:463px;border:2">
 </a><br>
 <a href="https://www.figma.com/proto/3vnu9KmzUhzNDnmgJCQQkx/Chefs-Cuisine-Website">
-  <img src="2.png" alt="chefs cuisine ui design" style="width:396px;height:360px;border:2">
+  <img src="2.png" alt="chefs cuisine ui design" style="width:396px;height:380px;border:2">
 </a>
 <a href="https://www.figma.com/proto/3vnu9KmzUhzNDnmgJCQQkx/Chefs-Cuisine-Website">
-  <img src="3.png" alt="chefs cuisine ui design" style="width:396px;height:360px;border:2">
+  <img src="3.png" alt="chefs cuisine ui design" style="width:396px;height:380px;border:2">
 </a>
 
 
