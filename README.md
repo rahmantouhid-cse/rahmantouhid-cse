@@ -51,11 +51,13 @@
 
 <h3>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h3>
 <a href="https://www.figma.com/proto/aKL2Gm4PSbwFSktz4HNiFM/Apple-Landing-Page">
-  <img src="apple.png" alt="chefs cuisine ui design" style="width:546px;height:865px;border:2">
+  <img src="apple.png" alt="apple" style="width:546px;height:865px;border:2">
 </a>
 
 <h1>3. Animated Webpage</h1>
 <h2>Parallax Effect</h2>
 <h3>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h3>
 
-
+<a href="https://www.figma.com/proto/aKL2Gm4PSbwFSktz4HNiFM/Apple-Landing-Page">
+  <img src="nightsky-parallax.png" alt="nightsky-parallax" style="width:1203px;height:627px;border:2">
+</a>
