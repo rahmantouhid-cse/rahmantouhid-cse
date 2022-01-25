@@ -1,14 +1,10 @@
-   <!DOCTYPE html>
-<html>
-<body>
+
 
  <video controls loop>
   <source src="video.mp4" type="video/mp4">
   </video>
 
-  </body>
-</html>
-  
+
   
 <h1 align="center">Hi 👋, I'm Touhidur Rahman</h1>
 <h3 align="center">A Passionate UI/UX Designer</h3>
