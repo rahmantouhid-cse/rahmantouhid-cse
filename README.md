@@ -95,7 +95,7 @@
   <img src="SuperSale.png" alt="SuperSale" style="width:150px;height:150px;border:2">
 </a>
 <a href="https://www.figma.com/file/IL6BhiwcC7APnhSohBQdca/Nike-sale">
-  <img src="NikeSuperSale.png" alt="NikeSuperSale" style="width:300px;height:150px;border:2">
+  <img src="NikeSuperSale.png" alt="NikeSuperSale" style="width:600px;height:3000px;border:2">
 </a>
 <a href="https://www.figma.com/file/NZ4NDwnyxFqi9b8ThQB38F/Mcdonalds-discount">
   <img src="McdonaldsOffer.png" alt="McdonaldsOffer" style="width:150px;height:150px;border:2">
