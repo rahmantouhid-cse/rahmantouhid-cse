@@ -16,7 +16,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/touhidur-rahman-548021196/](https://www.linkedin.com/in/touhidur-rahman-548021196/)
 
 
- <img src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/c6590c70a5966a3baf311f081cdda5ff.gif" alt="chefs cuisine ui design" class="center" style="margin:auto;width:480px;height:625px;border:0">
+ <img src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/c6590c70a5966a3baf311f081cdda5ff.gif" alt="chefs cuisine ui design" class="center" style="margin:auto;border:0">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
