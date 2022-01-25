@@ -15,8 +15,10 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/touhidur-rahman-548021196/](https://www.linkedin.com/in/touhidur-rahman-548021196/)
 
-<iframe width="560" height="315" src="https://cdn.dribbble.com/users/1145170/screenshots/14034736/media/7a547c03a14fbfd18c647424a2afaacf.mp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
+
+ <video controls loop>
+  <source src="https://cdn.dribbble.com/users/1145170/screenshots/14034736/media/7a547c03a14fbfd18c647424a2afaacf.mp4" type="video/mp4">
+  </video>
 
 
 <h3 align="left">Connect with me:</h3>
