@@ -54,4 +54,8 @@
   <img src="apple.png" alt="chefs cuisine ui design" style="width:546px;height:865px;border:2">
 </a>
 
+<h1>3. Animated Webpage</h1>
+<h2>Parallax Effect</h2>
+<h3>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h3>
+
 
