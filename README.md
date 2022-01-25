@@ -90,7 +90,7 @@
 <h1>5. Sale/Offer Banner Design</h1>
 <h3>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h3>
 <a href="https://www.figma.com/file/IL6BhiwcC7APnhSohBQdca/Nike-sale">
-  <img src="NikeSuperSale.png" alt="NikeSuperSale" style="width:200px;height:100px;border:2">
+  <img src="NikeSuperSale.png" alt="NikeSuperSale" style="width:300px;height:150px;border:2">
 </a>
 <a href="https://www.figma.com/file/NZ4NDwnyxFqi9b8ThQB38F/Mcdonalds-discount">
   <img src="McdonaldsOffer.png" alt="McdonaldsOffer" style="width:1255px;height:705px;border:2">
