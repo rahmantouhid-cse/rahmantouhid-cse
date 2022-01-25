@@ -30,5 +30,5 @@
 ##Demo
 
 <a href="https://www.figma.com/proto/3vnu9KmzUhzNDnmgJCQQkx/Chefs-Cuisine-Website?node-id=0%3A1">
-  <img src="chefs cuisine ui design.png" alt="chefs cuisine ui design" style="width:1280px;height:720px;border:0">
+  <img src="chefs cuisine ui design.png" alt="chefs cuisine ui design" style="width:720px;height:1280px;border:0">
 </a>
