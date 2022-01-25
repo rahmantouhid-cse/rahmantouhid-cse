@@ -27,16 +27,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahmantouhid-cse&show_icons=true&locale=en" alt="rahmantouhid-cse" /></p>
 
 
-
-
-
-## Demo
-
-Chef's Cuisine Website UI
-<img src="chefs cuisine ui design.png" href="https://www.figma.com/proto/3vnu9KmzUhzNDnmgJCQQkx/Chefs-Cuisine-Website?node-id=0%3A1">
-
-##demo
+##Demo
 
 <a href="https://www.figma.com/proto/3vnu9KmzUhzNDnmgJCQQkx/Chefs-Cuisine-Website?node-id=0%3A1">
-  <img src="chefs cuisine ui design.png" alt="chefs cuisine ui design" style="width:42px;height:42px;border:0">
+  <img src="chefs cuisine ui design.png" alt="chefs cuisine ui design" style="width:600px;height:600px;border:0">
 </a>
