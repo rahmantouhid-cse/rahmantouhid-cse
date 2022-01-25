@@ -58,6 +58,34 @@
 <h2>Parallax Effect</h2>
 <h3>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h3>
 
-<a href="https://www.figma.com/proto/aKL2Gm4PSbwFSktz4HNiFM/Apple-Landing-Page">
+<a href="https://www.figma.com/proto/64XuEOAKIpMHQaGET4Hdvi/Parallax">
   <img src="nightsky-parallax.png" alt="nightsky-parallax" style="width:1203px;height:627px;border:2">
+</a>
+<h2>Slide In Effect</h2>
+<h3>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h3>
+
+<a href="https://www.figma.com/proto/dZVrzcJT1PPZDBH6B8NSWd/AirpodsPro">
+  <img src="AirPodsSlideIn.png" alt="AirPodsSlideIn" style="width:1255px;height:705px;border:2">
+</a>
+
+<h1>4. Dashboard Dark Mode Design</h1>
+<h3>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h3>
+<a href="https://www.figma.com/proto/xI0VdpWzbmHi42xnsPbCHL/Dashboard-Health-App">
+  <img src="DarkMode.png" alt="DarkMode" style="width:1255px;height:705px;border:2">
+</a>
+
+
+<h1>5. Sale/Offer Banner Design</h1>
+<h3>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h3>
+<a href="https://www.figma.com/file/IL6BhiwcC7APnhSohBQdca/Nike-sale">
+  <img src="NikeSuperSale.png" alt="NikeSuperSale" style="width:1255px;height:705px;border:2">
+</a>
+<a href="https://www.figma.com/file/NZ4NDwnyxFqi9b8ThQB38F/Mcdonalds-discount">
+  <img src="McdonaldsOffer.png" alt="McdonaldsOffer" style="width:1255px;height:705px;border:2">
+</a>
+<a href="https://www.figma.com/file/9lAXRmf1HrQJTZ3BEk2HgC/SuperSale">
+  <img src="SuperSale.png" alt="SuperSale" style="width:1255px;height:705px;border:2">
+</a>
+<a href="https://www.figma.com/file/UmDZQhR5tMkFTAsUyrPpwA/WitcherOffer">
+  <img src="WitcherOffer.png" alt="WitcherOffer" style="width:1255px;height:705px;border:2">
 </a>
