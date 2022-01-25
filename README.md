@@ -27,7 +27,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahmantouhid-cse&show_icons=true&locale=en" alt="rahmantouhid-cse" /></p>
 
 
-##Demo
+##Projects
+
+
+<b>Click on the project screen-shot to see the LIVE DEMO</b>
+
 
 <a href="https://www.figma.com/proto/3vnu9KmzUhzNDnmgJCQQkx/Chefs-Cuisine-Website?node-id=0%3A1">
   <img src="chefs cuisine ui design.png" alt="chefs cuisine ui design" style="width:798px;height:1026px;border:0">
