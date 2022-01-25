@@ -30,7 +30,7 @@
 ##Projects
 
 
-<b>Click on the project screen-shot to see the LIVE DEMO</b>
+<h2>Click on the project screen-shot to see the LIVE DEMO</h2>
 
 
 <a href="https://www.figma.com/proto/3vnu9KmzUhzNDnmgJCQQkx/Chefs-Cuisine-Website?node-id=0%3A1">
