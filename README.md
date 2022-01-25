@@ -98,7 +98,7 @@
 <a href="https://www.figma.com/file/NZ4NDwnyxFqi9b8ThQB38F/Mcdonalds-discount">
   <img src="McdonaldsOffer.png" alt="McdonaldsOffer" style="width:500px;height:500px;border:2">
 </a>
-<br>
+<br><br><br>
 <a href="https://www.figma.com/file/IL6BhiwcC7APnhSohBQdca/Nike-sale">
   <img src="NikeSuperSale.png" alt="NikeSuperSale" style="width:1000px;height:500px;border:2">
 </a>
