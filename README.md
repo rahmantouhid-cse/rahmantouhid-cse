@@ -28,7 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahmantouhid-cse&show_icons=true&locale=en" alt="rahmantouhid-cse" /></p>
 
 <br><br>
-<h1 align="center" style"color:red">Projects </h1>
+<h1 align="center">Projects </h1>
 <br><br>
 <h1>1. Chef's Cuisine Website UI</h1>
 
@@ -46,7 +46,7 @@
   <img src="3.png" alt="chefs cuisine ui design" style="width:480px;height:435px;border:2">
 </a>
 
-
+<br><br>
 <h1>2. Apple Landing Page</h1>
 
 <h3>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h3>
@@ -56,6 +56,7 @@
   <img src="apple.png" alt="apple" style="width:546px;height:865px;border:2">
 </a>
 
+<br><br>
 <h1>3. Animated Webpage</h1>
 <h2>Parallax Effect</h2>
 <h3>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h3>
@@ -68,7 +69,7 @@
 </a>
 
 
-
+<br><br>
 <h2>Slide In Effect</h2>
 <h3>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h3>
 
@@ -79,7 +80,7 @@
   <img src="AirPodsSlideIn1.png" alt="AirPodsSlideIn" style="width:500px;height:280px;border:2">
 </a>
 
-
+<br><br>
 <h1>4. Dashboard Dark Mode Design</h1>
 <h3>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h3>
 <a href="https://www.figma.com/proto/xI0VdpWzbmHi42xnsPbCHL/Dashboard-Health-App">
@@ -89,6 +90,7 @@
   <img src="DarkMode2.png" alt="DarkMode" style="width:500px;height:350px;border:2">
 </a>
 
+<br><br>
 <h1>5. Promotional/Sale Banner Design</h1>
 <h3>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h3>
 &nbsp;
