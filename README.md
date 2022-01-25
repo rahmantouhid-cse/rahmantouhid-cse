@@ -1,3 +1,8 @@
+<style>
+.aligncenter {
+    text-align: center;
+}
+</style>
 <h1 align="center">Hi 👋, I'm Touhidur Rahman</h1>
 <h3 align="center">A Passionate UI/UX Designer</h3>
 
@@ -38,11 +43,7 @@
 <p class="aligncenter">
     <img src="chefs cuisine ui design.png" alt="centered image" />
 </p>
-<style>
-.aligncenter {
-    text-align: center;
-}
-</style>
+
 <a  href="https://www.figma.com/proto/3vnu9KmzUhzNDnmgJCQQkx/Chefs-Cuisine-Website?node-id=0%3A1">
   <img src="chefs cuisine ui design.png" alt="chefs cuisine ui design" class="center" style="margin:auto;width:360px;height:463px;border:2">
 </a><br>
