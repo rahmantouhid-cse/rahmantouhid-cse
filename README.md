@@ -1,7 +1,7 @@
 
 
 
-https://github.com/rahmantouhid-cse/rahmantouhid-cse/blob/main/video.mp4
+  <img src="video.gif" alt="chefs cuisine ui design">
 
 
 
