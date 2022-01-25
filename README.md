@@ -64,7 +64,7 @@
   <img src="nightsky-parallax1.png" alt="nightsky-parallax" style="width:500px;height:265px;border:2">
 </a>
 <a href="https://www.figma.com/proto/64XuEOAKIpMHQaGET4Hdvi/Parallax">
-  <img src="nightsky-parallax.png" alt="nightsky-parallax" style="width:400px;height:265px;border:2">
+  <img src="nightsky-parallax.png" alt="nightsky-parallax" style="width:500px;height:265px;border:2">
 </a>
 
 
