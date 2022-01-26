@@ -1,6 +1,8 @@
+<img src="Banner.png" width="1000">
 
-<h1 align="center">Hi 👋, I'm Touhidur Rahman</h1>
-<h3 align="center">A Passionate UI/UX Designer</h3>
+<!-- <h1 align="center">Hi 👋, I'm Touhidur Rahman</h1>
+<h3 align="center">A Passionate UI/UX Designer</h3> -->
+
 <img align="right" src="coding.gif" width="300">
 
 
