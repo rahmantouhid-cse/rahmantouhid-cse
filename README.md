@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Touhidur Rahman</h1>
 <h3 align="center">A Passionate UI/UX Designer</h3>
 
-<span align="right"><img src="coding.gif" width="100"></span>
+<p> <span align="right"><img src="coding.gif" width="100"></span>
 
-<span align="left"> <img src="https://komarev.com/ghpvc/?username=rahmantouhid&label=Profile%20views&color=0e75b6&style=flat" alt="rahmantouhid" /> </span>
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=rahmantouhid&label=Profile%20views&color=0e75b6&style=flat" alt="rahmantouhid"> </span></p>
 
 
 - 🔭 I’m currently working on **UI/UX design with figma**
