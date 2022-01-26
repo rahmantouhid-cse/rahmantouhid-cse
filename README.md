@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Touhidur Rahman</h1>
 <h3 align="center">A Passionate UI/UX Designer</h3>
-<img align="right" src="coding.gif" width="400">
+<img align="right" src="coding.gif" width="350">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmantouhid&label=Profile%20views&color=0e75b6&style=flat" alt="rahmantouhid"></p>
