@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmantouhid&label=Profile%20views&color=0e75b6&style=flat" alt="rahmantouhid"></p>
 
-<p align="right"><img src="coding.gif" width="100"></p>
+<p align="right"><img align="right" src="coding.gif" width="100"></p>
 
 - 🔭 I’m currently working on **UI/UX design with figma**
 
