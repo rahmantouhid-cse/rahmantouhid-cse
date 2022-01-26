@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **UI/UX design with figma**
 
-- 🌱 I’m currently learning **Unity and Unreal engine**
+- 🌱 I’ve recently started learning **Unity and Unreal engine**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rahmantouhid-cse](https://github.com/rahmantouhid-cse)
 
