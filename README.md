@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmantouhid&label=Profile%20views&color=0e75b6&style=flat" alt="rahmantouhid"></p>
 
 
-- 🔭 I’m currently working on **UI/UX design with figma**
+- 🔭 I’m currently working on **UI/UX & Web design with Figma**
 
 - 🌱 I’ve recently started learning **Unity and Unreal engine**
 
