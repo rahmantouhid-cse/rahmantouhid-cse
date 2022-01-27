@@ -42,7 +42,7 @@
 <p></p>
 
 <br><br>
-<h1 align="center">Projects </h1>
+```diff<h1 align="center"> - Projects </h1>```
 <br><br><br>
 <h1>1. Chef's Cuisine Website UI</h1>
 
