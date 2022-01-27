@@ -1,11 +1,4 @@
 
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-
-
 <img src="Bannner.png" width="1000">
 
 <!-- <h1 align="center">Hi 👋, I'm Touhidur Rahman</h1>
