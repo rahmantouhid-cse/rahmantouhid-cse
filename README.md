@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/rahmantouhid" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" alt="touhidur-rahman-548021196" height="30" width="40" /></a>
+<a href="https://github.com/rahmantouhid" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="touhidur-rahman-548021196" height="30" width="40" /></a>
 </p>
 
 
