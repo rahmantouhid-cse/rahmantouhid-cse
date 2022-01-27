@@ -15,7 +15,7 @@
 - 👨‍💻 All of my projects are available at :<span align="left">
 <a href="https://github.com/rahmantouhid" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="touhidur-rahman-548021196" height="40" width="40" /></a></span>
 
-- 📫 <span align="left"> How to reach me :  <a href="rahmantouhid@gmail.com" target="blank"><img align="center" src="google.png" alt="touhidur-rahman-548021196" height="30" width="30" /></a></span>
+- 📫 <span align="left"> How to reach me :  <img align="center" src="google.png" alt="touhidur-rahman-548021196" height="30" width="30" /> - rahmantouhid@gmail.com </span>
 
 - 📄 <span align="left"> Know about my experiences :  <a href="https://linkedin.com/in/touhidur-rahman-548021196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="touhidur-rahman-548021196" height="30" width="30" /></a></span>
 
