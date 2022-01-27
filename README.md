@@ -1,15 +1,11 @@
 
 <img src="Bannner.png" width="1000">
 
-<!-- <h1 align="center">Hi 👋, I'm Touhidur Rahman</h1>
-<h3 align="center">A Passionate UI/UX Designer</h3> -->
 
 <img align="right" src="coding.gif" width="300">
 
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmantouhid&label=Profile%20views&color=0e75b6&style=flat" alt="rahmantouhid"></p>
-
 
 
 - 🔭 I’m currently working on **UI/UX design with figma**
@@ -42,7 +38,7 @@
 <p></p>
 
 <br><br>
-<h1 align="center"> ```diff - Projects ``` </h1>
+<h1 align="center">Projects</h1>
 <br><br><br>
 <h1>1. Chef's Cuisine Website UI</h1>
 
