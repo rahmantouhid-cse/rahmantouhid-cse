@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **rahmantouhid@gmail.com**
 
-- 📄 Know about my experiences <p align="left">
+<p align="left">- 📄 Know about my experiences 
 <a href="https://linkedin.com/in/touhidur-rahman-548021196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="touhidur-rahman-548021196" height="30" width="40" /></a>
 </p>
 
