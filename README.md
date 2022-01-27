@@ -12,11 +12,11 @@
 
 - 🌱 I’ve recently started learning **Unity and Unreal engine**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rahmantouhid](https://github.com/rahmantouhid)
+- 👨‍💻 All of my projects are available at : [https://github.com/rahmantouhid](https://github.com/rahmantouhid)
 
-- 📫 How to reach me **rahmantouhid@gmail.com**
+- 📫 How to reach me : **rahmantouhid@gmail.com**
 
-- 📄 <span align="left"> Know about my experiences 
+- 📄 <span align="left"> Know about my experiences :  
 <a href="https://linkedin.com/in/touhidur-rahman-548021196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="touhidur-rahman-548021196" height="30" width="40" /></a>
 </span>
 
