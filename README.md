@@ -12,7 +12,8 @@
 
 - 🌱 I’ve recently started learning **Unity and Unreal engine**
 
-- 👨‍💻 All of my projects are available at : [https://github.com/rahmantouhid](https://github.com/rahmantouhid)
+- 👨‍💻 All of my projects are available at :<span align="left">
+<a href="https://github.com/rahmantouhid" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="touhidur-rahman-548021196" height="40" width="40" /></a></span>
 
 - 📫 How to reach me : **rahmantouhid@gmail.com**
 
@@ -22,10 +23,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/rahmantouhid" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="touhidur-rahman-548021196" height="40" width="40" /></a>
-</p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
