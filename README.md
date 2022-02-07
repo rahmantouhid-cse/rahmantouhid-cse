@@ -110,7 +110,7 @@
  
 <br><br><br>
 <h1>6. E-commerce Website Design</h1>
-<h4>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h4>
+<h6>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h6>
 
 <a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce">
   <img src="e-homepage.jpeg" alt="SuperSale" style="width:225px;height:350px;border:2">
