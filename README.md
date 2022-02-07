@@ -47,7 +47,7 @@
  <img src="e-category.jpeg" alt="e-signup.jpeg" style="width:225px;height:350px;border:2">
 </a>
 
-<br><br>
+<br><br><br>
 <h2>2. Chef's Cuisine Website UI Design</h2>
 <h6>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h6>
 
@@ -61,7 +61,7 @@
   <img src="3.png" alt="chefs cuisine ui design" style="width:225px;height:200px;border:2">
 </a>
 
-<br><br>
+<br><br><br>
 <h2>3. Apple Landing Page Design</h2>
 
 <h6>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h6>
@@ -71,7 +71,7 @@
   <img src="apple.png" alt="apple" style="width:225px;height:365px;border:2">
 </a>
 
-<br><br>
+<br><br><br>
 <h2>4. Animated Webpage Design</h2>
 <h3>Parallax Effect</h3>
 <h6>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h6>
@@ -84,7 +84,7 @@
 </a>
 
 
-<br><br>
+<br><br><br>
 <h3>Slide Effect</h3>
 <h6>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h6>
 
@@ -95,7 +95,7 @@
   <img src="AirPodsSlideIn1.png" alt="AirPodsSlideIn" style="width:225px;height:125px;border:2">
 </a>
 
-<br><br>
+<br><br><br>
 <h2>5. Dashboard Design (Dark Mode)</h2>
 <h6>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h6>
 <a href="https://www.figma.com/proto/xI0VdpWzbmHi42xnsPbCHL/Dashboard-Health-App">
@@ -105,7 +105,7 @@
   <img src="DarkMode2.png" alt="DarkMode" style="width:225px;height:160px;border:2">
 </a>
 
-<br><br>
+<br><br><br>
 <h2>6. Promotional/Sale Banner Design</h2>
 <h6>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h6>
 &nbsp;
