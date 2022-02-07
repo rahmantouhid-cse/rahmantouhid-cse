@@ -29,7 +29,7 @@
 
 <p></p>
 
-<br><br>
+<br>
 <h1 align="center">Projects</h1>
 <br><br><br>
 <h1>1. Chef's Cuisine Website UI</h1>
@@ -46,7 +46,7 @@
   <img src="3.png" alt="chefs cuisine ui design" style="width:225px;height:200px;border:2">
 </a>
 
-<br><br><br>
+<br>
 <h1>2. Apple Landing Page</h1>
 
 <h6>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h6>
@@ -69,28 +69,28 @@
 </a>
 
 
-<br><br><br>
+<br>
 <h2>Slide In Effect</h2>
 <h3>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h3>
 
 <a href="https://www.figma.com/proto/dZVrzcJT1PPZDBH6B8NSWd/AirpodsPro">
-  <img src="AirPodsSlideIn.png" alt="AirPodsSlideIn" style="width:500px;height:280px;border:2">
-</a>
+  <img src="AirPodsSlideIn.png" alt="AirPodsSlideIn" style="width:225px;height:125px;border:2">
+</a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.figma.com/proto/dZVrzcJT1PPZDBH6B8NSWd/AirpodsPro">
-  <img src="AirPodsSlideIn1.png" alt="AirPodsSlideIn" style="width:500px;height:280px;border:2">
+  <img src="AirPodsSlideIn1.png" alt="AirPodsSlideIn" style="width:225px;height:125px;border:2">
 </a>
 
-<br><br><br>
+<br>
 <h1>4. Dashboard Dark Mode Design</h1>
 <h3>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h3>
 <a href="https://www.figma.com/proto/xI0VdpWzbmHi42xnsPbCHL/Dashboard-Health-App">
-  <img src="DarkMode1.png" alt="DarkMode" style="width:500px;height:350px;border:2">
-</a>
+  <img src="DarkMode1.png" alt="DarkMode" style="width:225px;height:160px;border:2">
+</a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.figma.com/proto/xI0VdpWzbmHi42xnsPbCHL/Dashboard-Health-App">
-  <img src="DarkMode2.png" alt="DarkMode" style="width:500px;height:350px;border:2">
+  <img src="DarkMode2.png" alt="DarkMode" style="width:225px;height:160px;border:2">
 </a>
 
-<br><br><br>
+<br>
 <h1>5. Promotional/Sale Banner Design</h1>
 <h3>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h3>
 &nbsp;
