@@ -109,7 +109,7 @@
 <br><br><br>
 <h2>6. Promotional/Sale Banner Design</h2>
 <h6>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h6>
-&nbsp;
+
 <a href="https://www.figma.com/file/IL6BhiwcC7APnhSohBQdca/Nike-sale">
   <img src="NikeSuperSale.png" alt="NikeSuperSale" style="width:225px;height:112px;border:2">
 </a>
