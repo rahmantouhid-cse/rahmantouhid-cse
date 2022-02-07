@@ -73,7 +73,7 @@
 
 <br><br><br>
 <h2>4. Animated Webpage Design</h2>
-<br>
+
 <h3>Parallax Effect</h3>
 <h6>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h6>
 
