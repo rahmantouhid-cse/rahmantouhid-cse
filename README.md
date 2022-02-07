@@ -30,9 +30,23 @@
 <p></p>
 
 <br><br>
+<h1>1. E-commerce Website Design</h1>
+<h6>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h6>
+
+<a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce">
+  <img src="e-homepage.jpeg" alt="SuperSale" style="width:225px;height:350px;border:2">
+</a>
+<a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce">
+ <img src="e-footer.jpeg" alt="McdonaldsOffer" style="width:225px;height:350px;border:2">
+</a>
+<a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce">
+ <img src="e-category.jpeg" alt="e-signup.jpeg" style="width:225px;height:350px;border:2">
+</a>
+
+<br><br>
 <h1 align="center">Projects</h1>
 <br><br><br>
-<h1>1. Chef's Cuisine Website UI</h1>
+<h1>2. Chef's Cuisine Website UI</h1>
 
 <h6>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h6>
 
@@ -47,7 +61,7 @@
 </a>
 
 <br><br>
-<h1>2. Apple Landing Page</h1>
+<h1>3. Apple Landing Page</h1>
 
 <h6>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h6>
 
@@ -57,7 +71,7 @@
 </a>
 
 <br><br>
-<h1>3. Animated Webpage</h1>
+<h1>4. Animated Webpage</h1>
 <h2>Parallax Effect</h2>
 <h6>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h6>
 
@@ -81,7 +95,7 @@
 </a>
 
 <br><br>
-<h1>4. Dashboard Dark Mode Design</h1>
+<h1>5. Dashboard Dark Mode Design</h1>
 <h3>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h3>
 <a href="https://www.figma.com/proto/xI0VdpWzbmHi42xnsPbCHL/Dashboard-Health-App">
   <img src="DarkMode1.png" alt="DarkMode" style="width:225px;height:160px;border:2">
@@ -91,7 +105,7 @@
 </a>
 
 <br><br>
-<h1>5. Promotional/Sale Banner Design</h1>
+<h1>6. Promotional/Sale Banner Design</h1>
 <h3>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h3>
 &nbsp;
 <a href="https://www.figma.com/file/9lAXRmf1HrQJTZ3BEk2HgC/SuperSale">
@@ -106,16 +120,4 @@
   <img src="NikeSuperSale.png" alt="NikeSuperSale" style="width:450px;height:225px;border:2">
 </a>
  
-<br><br>
-<h1>6. E-commerce Website Design</h1>
-<h6>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h6>
 
-<a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce">
-  <img src="e-homepage.jpeg" alt="SuperSale" style="width:225px;height:350px;border:2">
-</a>
-<a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce">
- <img src="e-footer.jpeg" alt="McdonaldsOffer" style="width:225px;height:350px;border:2">
-</a>
-<a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce">
- <img src="e-category.jpeg" alt="e-signup.jpeg" style="width:225px;height:350px;border:2">
-</a>
