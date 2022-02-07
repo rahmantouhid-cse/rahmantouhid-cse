@@ -31,8 +31,6 @@
 
 <br><br>
 <h1 align="center">Projects</h1>
-<br><br><br>
-<h1>2. Chef's Cuisine Website UI</h1>
 
 
 <br><br>
@@ -49,7 +47,8 @@
  <img src="e-category.jpeg" alt="e-signup.jpeg" style="width:225px;height:350px;border:2">
 </a>
 
-
+<br><br>
+<h1>2. Chef's Cuisine Website UI</h1>
 <h6>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h6>
 
 <a href="https://www.figma.com/proto/3vnu9KmzUhzNDnmgJCQQkx/Chefs-Cuisine-Website">
