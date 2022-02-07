@@ -36,8 +36,6 @@
 
 <h3>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h3>
 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.figma.com/proto/3vnu9KmzUhzNDnmgJCQQkx/Chefs-Cuisine-Website">
   <img src="chefs cuisine ui design.png" alt="chefs cuisine ui design" class="center" style="margin:auto;width:225px;height:290px;border:2">
 </a>
@@ -53,9 +51,9 @@
 
 <h3>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h3>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.figma.com/proto/aKL2Gm4PSbwFSktz4HNiFM/Apple-Landing-Page">
-  <img src="apple.png" alt="apple" style="width:546px;height:865px;border:2">
+  <img src="apple.png" alt="apple" style="width:225px;height:365px;border:2">
 </a>
 
 <br><br><br>
