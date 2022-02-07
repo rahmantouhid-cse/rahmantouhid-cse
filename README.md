@@ -113,7 +113,7 @@
 <h3>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h3>
 &nbsp;
 <a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce">
-  <img src="SuperSale.png" alt="SuperSale" style="width:480px;height:480px;border:2">
+  <img src="e-homepage.png" alt="SuperSale" style="width:480px;height:1500px;border:2">
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce">
