@@ -34,11 +34,11 @@
 <br><br><br>
 <h1>1. Chef's Cuisine Website UI</h1>
 
-<h3>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h3>
+<h6>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h6>
 
 <a href="https://www.figma.com/proto/3vnu9KmzUhzNDnmgJCQQkx/Chefs-Cuisine-Website">
   <img src="chefs cuisine ui design.png" alt="chefs cuisine ui design" class="center" style="margin:auto;width:225px;height:290px;border:2">
-</a>
+</a></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.figma.com/proto/3vnu9KmzUhzNDnmgJCQQkx/Chefs-Cuisine-Website">
   <img src="2.png" alt="chefs cuisine ui design" style="width:225px;height:200px;border:2">
 </a>&nbsp;&nbsp;&nbsp;
@@ -49,7 +49,7 @@
 <br><br><br>
 <h1>2. Apple Landing Page</h1>
 
-<h3>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h3>
+<h6>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h6>
 
 
 <a href="https://www.figma.com/proto/aKL2Gm4PSbwFSktz4HNiFM/Apple-Landing-Page">
@@ -59,13 +59,13 @@
 <br><br><br>
 <h1>3. Animated Webpage</h1>
 <h2>Parallax Effect</h2>
-<h3>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h3>
+<h6>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h6>
 
 <a href="https://www.figma.com/proto/64XuEOAKIpMHQaGET4Hdvi/Parallax">
-  <img src="nightsky-parallax1.png" alt="nightsky-parallax" style="width:500px;height:265px;border:2">
-</a>
+  <img src="nightsky-parallax1.png" alt="nightsky-parallax" style="width:225px;height:120px;border:2">
+</a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.figma.com/proto/64XuEOAKIpMHQaGET4Hdvi/Parallax">
-  <img src="nightsky-parallax.png" alt="nightsky-parallax" style="width:500px;height:265px;border:2">
+  <img src="nightsky-parallax.png" alt="nightsky-parallax" style="width:225px;height:120px;border:2">
 </a>
 
 
