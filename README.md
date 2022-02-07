@@ -38,13 +38,13 @@
 <h6>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h6>
 
 <a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce">
-  <img src="e-homepage.jpeg" alt="SuperSale" style="width:225px;height:340px;border:2">
+  <img src="e-homepage.jpeg" alt="SuperSale" style="width:200px;height:300px;border:2">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce">
- <img src="e-footer.jpeg" alt="McdonaldsOffer" style="width:225px;height:340px;border:2">
+ <img src="e-footer.jpeg" alt="McdonaldsOffer" style="width:200px;height:300px;border:2">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce">
- <img src="e-category.jpeg" alt="e-signup.jpeg" style="width:225px;height:340px;border:2">
+ <img src="e-category.jpeg" alt="e-signup.jpeg" style="width:200px;height:300px;border:2">
 </a>
 
 <br><br><br>
@@ -55,10 +55,10 @@
   <img src="chefs cuisine ui design.png" alt="chefs cuisine ui design" class="center" style="margin:auto;width:225px;height:290px;border:2">
 </a></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.figma.com/proto/3vnu9KmzUhzNDnmgJCQQkx/Chefs-Cuisine-Website">
-  <img src="2.png" alt="chefs cuisine ui design" style="width:225px;height:200px;border:2">
+  <img src="2.png" alt="chefs cuisine ui design" style="width:200px;height:180px;border:2">
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.figma.com/proto/3vnu9KmzUhzNDnmgJCQQkx/Chefs-Cuisine-Website">
-  <img src="3.png" alt="chefs cuisine ui design" style="width:225px;height:200px;border:2">
+  <img src="3.png" alt="chefs cuisine ui design" style="width:200px;height:180px;border:2">
 </a>
 
 <br><br><br>
@@ -68,7 +68,7 @@
 
 
 <a href="https://www.figma.com/proto/aKL2Gm4PSbwFSktz4HNiFM/Apple-Landing-Page">
-  <img src="apple.png" alt="apple" style="width:225px;height:350px;border:2">
+  <img src="apple.png" alt="apple" style="width:200px;height:300px;border:2">
 </a>
 
 <br><br><br>
