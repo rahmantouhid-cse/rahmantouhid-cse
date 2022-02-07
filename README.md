@@ -109,8 +109,8 @@
 </a>
  
 <br><br><br>
-<h1>6. Promotional/Sale Banner Design</h1>
-<h3>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h3>
+<h1>6. E-commerce Website Design</h1>
+<h4>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h4>
 
 <a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce">
   <img src="e-homepage.jpeg" alt="SuperSale" style="width:225px;height:350px;border:2">
