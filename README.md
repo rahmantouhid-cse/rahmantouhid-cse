@@ -111,23 +111,23 @@
 <h6>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h6>
 &nbsp;
 <a href="https://www.figma.com/file/IL6BhiwcC7APnhSohBQdca/Nike-sale">
-  <img src="NikeSuperSale.png" alt="NikeSuperSale" style="width:450px;height:225px;border:2">
+  <img src="NikeSuperSale.png" alt="NikeSuperSale" style="width:225px;height:112px;border:2">
 </a>
  &nbsp;&nbsp;&nbsp;
 <a href="https://www.figma.com/file/IL6BhiwcC7APnhSohBQdca/Nike-sale">
-  <img src="super-sale.png" alt="NikeSuperSale" style="width:450px;height:225px;border:2">
+  <img src="super-sale.png" alt="NikeSuperSale" style="width:225px;height:112px;border:2">
 </a>
  &nbsp;&nbsp;&nbsp;
 <a href="https://www.figma.com/file/IL6BhiwcC7APnhSohBQdca/Nike-sale">
-  <img src="beats-offer.png" alt="NikeSuperSale" style="width:450px;height:225px;border:2">
+  <img src="beats-offer.png" alt="NikeSuperSale" style="width:225px;height:112px;border:2">
 </a>
  &nbsp;&nbsp;&nbsp;
 <a href="https://www.figma.com/file/IL6BhiwcC7APnhSohBQdca/Nike-sale">
-  <img src="oneplus-offer.png" alt="NikeSuperSale" style="width:450px;height:225px;border:2">
+  <img src="oneplus-offer.png" alt="NikeSuperSale" style="width:225px;height:112px;border:2">
 </a>
  &nbsp;&nbsp;&nbsp;
 <a href="https://www.figma.com/file/IL6BhiwcC7APnhSohBQdca/Nike-sale">
-  <img src="macbook-offer.png" alt="NikeSuperSale" style="width:450px;height:225px;border:2">
+  <img src="macbook-offer.png" alt="NikeSuperSale" style="width:225px;height:112px;border:2">
 </a>
  
 
