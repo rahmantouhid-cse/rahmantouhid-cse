@@ -113,13 +113,13 @@
 <h3>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h3>
 &nbsp;
 <a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce">
-  <img src="e-homepage.png" alt="SuperSale" style="width:480px;height:1500px;border:2">
+  <img src="e-homepage.jpeg" alt="SuperSale" style="width:480px;height:1500px;border:2">
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce">
-  <img src="McdonaldsOffer.png" alt="McdonaldsOffer" style="width:480px;height:480px;border:2">
+  <img src="" alt="McdonaldsOffer" style="width:480px;height:480px;border:2">
 </a>
 <br><br><br>
 <a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce">
-  <img src="NikeSuperSale.png" alt="NikeSuperSale" style="width:1000px;height:500px;border:2">
+  <img src="" alt="NikeSuperSale" style="width:1000px;height:500px;border:2">
 </a>
