@@ -73,7 +73,7 @@
 
 <br><br>
 <h1>4. Animated Webpage</h1>
-<h2>Parallax Effect</h2>
+<h3>Parallax Effect</h3>
 <h6>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h6>
 
 <a href="https://www.figma.com/proto/64XuEOAKIpMHQaGET4Hdvi/Parallax">
@@ -85,7 +85,7 @@
 
 
 <br><br>
-<h2>Slide In Effect</h2>
+<h3>Slide In Effect</h3>
 <h6>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h6>
 
 <a href="https://www.figma.com/proto/dZVrzcJT1PPZDBH6B8NSWd/AirpodsPro">
