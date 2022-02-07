@@ -86,7 +86,7 @@
 
 <br><br>
 <h2>Slide In Effect</h2>
-<h3>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h3>
+<h6>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h6>
 
 <a href="https://www.figma.com/proto/dZVrzcJT1PPZDBH6B8NSWd/AirpodsPro">
   <img src="AirPodsSlideIn.png" alt="AirPodsSlideIn" style="width:225px;height:125px;border:2">
@@ -97,7 +97,7 @@
 
 <br><br>
 <h1>5. Dashboard Dark Mode Design</h1>
-<h3>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h3>
+<h6>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h6>
 <a href="https://www.figma.com/proto/xI0VdpWzbmHi42xnsPbCHL/Dashboard-Health-App">
   <img src="DarkMode1.png" alt="DarkMode" style="width:225px;height:160px;border:2">
 </a>&nbsp;&nbsp;&nbsp;
@@ -107,7 +107,7 @@
 
 <br><br>
 <h1>6. Promotional/Sale Banner Design</h1>
-<h3>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h3>
+<h6>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h6>
 &nbsp;
 <a href="https://www.figma.com/file/9lAXRmf1HrQJTZ3BEk2HgC/SuperSale">
   <img src="SuperSale.png" alt="SuperSale" style="width:225px;height:225px;border:2">
