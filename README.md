@@ -117,9 +117,9 @@
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce">
-  <img src="" alt="McdonaldsOffer" style="width:480px;height:480px;border:2">
+  <img src="e-category.jpeg" alt="McdonaldsOffer" style="width:480px;height:750px;border:2">
 </a>
 <br><br><br>
 <a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce">
-  <img src="" alt="NikeSuperSale" style="width:1000px;height:500px;border:2">
+  <img src="" alt="e-signup.jpeg" style="width:1000px;height:360px;border:2">
 </a>
