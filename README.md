@@ -110,10 +110,6 @@
 <h2>6. Promotional/Sale Banner Design</h2>
 <h6>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h6>
 &nbsp;
-<a href="https://www.figma.com/file/NZ4NDwnyxFqi9b8ThQB38F/Mcdonalds-discount">
-  <img src="McdonaldsOffer.png" alt="McdonaldsOffer" style="width:225px;height:225px;border:2">
-</a>
-&nbsp;&nbsp;&nbsp;
 <a href="https://www.figma.com/file/IL6BhiwcC7APnhSohBQdca/Nike-sale">
   <img src="NikeSuperSale.png" alt="NikeSuperSale" style="width:450px;height:225px;border:2">
 </a>
