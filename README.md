@@ -39,10 +39,10 @@
 
 <a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce">
   <img src="e-homepage.jpeg" alt="SuperSale" style="width:225px;height:340px;border:2">
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce">
  <img src="e-footer.jpeg" alt="McdonaldsOffer" style="width:225px;height:340px;border:2">
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce">
  <img src="e-category.jpeg" alt="e-signup.jpeg" style="width:225px;height:340px;border:2">
 </a>
