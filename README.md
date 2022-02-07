@@ -34,7 +34,7 @@
 
 
 <br><br>
-<h1>1. E-commerce Website UI Design</h1>
+<h2>1. E-commerce Website UI Design</h2>
 <h6>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h6>
 
 <a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce">
@@ -48,7 +48,7 @@
 </a>
 
 <br><br>
-<h1>2. Chef's Cuisine Website UI Design</h1>
+<h2>2. Chef's Cuisine Website UI Design</h2>
 <h6>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h6>
 
 <a href="https://www.figma.com/proto/3vnu9KmzUhzNDnmgJCQQkx/Chefs-Cuisine-Website">
@@ -62,7 +62,7 @@
 </a>
 
 <br><br>
-<h1>3. Apple Landing Page Design</h1>
+<h2>3. Apple Landing Page Design</h2>
 
 <h6>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h6>
 
@@ -72,7 +72,7 @@
 </a>
 
 <br><br>
-<h1>4. Animated Webpage Design</h1>
+<h2>4. Animated Webpage Design</h2>
 <h3>Parallax Effect</h3>
 <h6>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h6>
 
@@ -96,7 +96,7 @@
 </a>
 
 <br><br>
-<h1>5. Dashboard Design (Dark Mode)</h1>
+<h2>5. Dashboard Design (Dark Mode)</h2>
 <h6>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h6>
 <a href="https://www.figma.com/proto/xI0VdpWzbmHi42xnsPbCHL/Dashboard-Health-App">
   <img src="DarkMode1.png" alt="DarkMode" style="width:225px;height:160px;border:2">
@@ -106,7 +106,7 @@
 </a>
 
 <br><br>
-<h1>6. Promotional/Sale Banner Design</h1>
+<h2>6. Promotional/Sale Banner Design</h2>
 <h6>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h6>
 &nbsp;
 <a href="https://www.figma.com/file/9lAXRmf1HrQJTZ3BEk2HgC/SuperSale">
