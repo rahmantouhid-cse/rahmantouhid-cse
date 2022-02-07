@@ -111,15 +111,15 @@
 <br><br><br>
 <h1>6. Promotional/Sale Banner Design</h1>
 <h3>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h3>
-&nbsp;
-<span><a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce">
-  <img src="e-homepage.jpeg" alt="SuperSale" style="width:480px;height:1500px;border:2">
-</a></span>
 
-<span><a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce">
+<a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce">
+  <img src="e-homepage.jpeg" alt="SuperSale" style="width:480px;height:1500px;border:2">
+</a>
+
+<a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce">
   <img src="e-category.jpeg" alt="McdonaldsOffer" style="width:480px;height:750px;border:2">
   <img src="" alt="e-signup.jpeg" style="width:480px;height:360px;border:2">
 </a>
 <a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce">
   <img src="" alt="e-signup.jpeg" style="width:480px;height:360px;border:2">
-</a></span>
+</a>
