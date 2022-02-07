@@ -35,7 +35,7 @@
 
 <br><br>
 <h2>1. E-commerce Website UI Design</h2>
-<h6>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h6>
+<h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 
 <a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce">
   <img src="e-homepage.jpeg" alt="SuperSale" style="width:200px;height:300px;border:2">
@@ -49,7 +49,7 @@
 
 <br><br><br>
 <h2>2. Chef's Cuisine Website UI Design</h2>
-<h6>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h6>
+<h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 
 <a href="https://www.figma.com/proto/3vnu9KmzUhzNDnmgJCQQkx/Chefs-Cuisine-Website">
   <img src="chefs cuisine ui design.png" alt="chefs cuisine ui design" class="center" style="margin:auto;width:225px;height:290px;border:2">
@@ -64,7 +64,7 @@
 <br><br><br>
 <h2>3. Apple Landing Page Design</h2>
 
-<h6>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h6>
+<h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 
 
 <a href="https://www.figma.com/proto/aKL2Gm4PSbwFSktz4HNiFM/Apple-Landing-Page">
@@ -75,7 +75,7 @@
 <h2>4. Animated Webpage Design</h2>
 
 <h3>Parallax Effect</h3>
-<h6>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h6>
+<h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 
 <a href="https://www.figma.com/proto/64XuEOAKIpMHQaGET4Hdvi/Parallax">
   <img src="nightsky-parallax1.png" alt="nightsky-parallax" style="width:225px;height:120px;border:2">
@@ -87,7 +87,7 @@
 
 <br><br><br>
 <h3>Slide Effect</h3>
-<h6>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h6>
+<h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 
 <a href="https://www.figma.com/proto/dZVrzcJT1PPZDBH6B8NSWd/AirpodsPro">
   <img src="AirPodsSlideIn.png" alt="AirPodsSlideIn" style="width:225px;height:125px;border:2">
@@ -98,7 +98,7 @@
 
 <br><br><br>
 <h2>5. Dashboard Design (Dark Mode)</h2>
-<h6>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h6>
+<h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 <a href="https://www.figma.com/proto/xI0VdpWzbmHi42xnsPbCHL/Dashboard-Health-App">
   <img src="DarkMode1.png" alt="DarkMode" style="width:225px;height:160px;border:2">
 </a>&nbsp;&nbsp;&nbsp;
@@ -108,7 +108,7 @@
 
 <br><br><br>
 <h2>6. Promotional/Sale Banner Design</h2>
-<h6>Click on the project screen-shot to see the LIVE DEMO 👇🏻👇🏽</h6>
+<h6>Click on the project screen-shots to see the Full Detailed Image 👇🏻👇🏽</h6>
 
 <a href="https://www.figma.com/file/IL6BhiwcC7APnhSohBQdca/Nike-sale">
   <img src="NikeSuperSale.png" alt="NikeSuperSale" style="width:225px;height:112px;border:2">
