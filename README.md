@@ -38,7 +38,7 @@
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 
 <a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce">
-  <img src="amazin.jpeg" alt="SuperSale" style="width="750"; height="400"; border:2">
+  <img src="amazin.jpeg" alt="SuperSale" style="width="560"; height="300"; border:2">
 </a>
 
 <br><br><br>
@@ -46,7 +46,7 @@
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 
 <a href="https://www.figma.com/proto/3vnu9KmzUhzNDnmgJCQQkx/Chefs-Cuisine-Website">
-  <img  src="chef.jpeg" alt="chefs cuisine ui design" style="width="920"; height="350"; border:2" >
+  <img  src="chef.jpeg" alt="chefs cuisine ui design" style="width="790"; height="300"; border:2" >
 </a>
 
 <br><br><br>
@@ -56,7 +56,7 @@
 
 
 <a href="https://www.figma.com/proto/aKL2Gm4PSbwFSktz4HNiFM/Apple-Landing-Page">
-  <img src="landing-page.jpeg" alt="apple" style="width="490"; height="700"; border:2" >
+  <img src="landing-page.jpeg" alt="apple" style="width="420"; height="600"; border:2" >
 </a>
 
 <br><br><br>
@@ -82,7 +82,7 @@
 <h2>5. Dashboard Design (Dark Mode)</h2>
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 <a href="https://www.figma.com/proto/xI0VdpWzbmHi42xnsPbCHL/Dashboard-Health-App">
-  <img src="dashboard.jpeg" alt="DarkMode" style="width="910"; height="400"; border:2" >
+  <img src="dashboard.jpeg" alt="DarkMode" style="width="680"; height="300"; border:2" >
 </a>
 
 <br><br><br>
