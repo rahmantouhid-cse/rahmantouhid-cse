@@ -38,7 +38,7 @@
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 
 <a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce">
-  <img src="e-commerce.jpeg" alt="SuperSale" style="width:200px;height:300px;border:2">
+  <img src="e-commerce.jpeg" alt="SuperSale" style="border:2">
 </a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce">
  <img src="e-footer.jpeg" alt="McdonaldsOffer" style="width:200px;height:300px;border:2">
