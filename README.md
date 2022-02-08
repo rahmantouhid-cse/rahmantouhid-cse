@@ -100,7 +100,7 @@
 <h2>5. Dashboard Design (Dark Mode)</h2>
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 <a href="https://www.figma.com/proto/xI0VdpWzbmHi42xnsPbCHL/Dashboard-Health-App">
-  <img src="dashboard.jpeg" alt="DarkMode" >
+  <img src="dashboard.jpeg" alt="DarkMode" style="width:885px;height:445px;border:2">
 </a>
 <!--<a href="https://www.figma.com/proto/xI0VdpWzbmHi42xnsPbCHL/Dashboard-Health-App">
   <img src="DarkMode1.png" alt="DarkMode" style="width:225px;height:160px;border:2">
