@@ -108,5 +108,9 @@
 <a href="https://www.figma.com/file/UmDZQhR5tMkFTAsUyrPpwA/MacBookPro-Offer">
   <img src="macbook-offer.png" alt="NikeSuperSale" style="width:225px;height:112px;border:2">
 </a>
+  &nbsp;&nbsp;&nbsp;
+<a href="https://www.figma.com/file/UmDZQhR5tMkFTAsUyrPpwA/MacBookPro-Offer">
+  <img src="macbook-offer.png" alt="NikeSuperSale" style="width:225px;height:112px;border:2">
+</a>
  
 
