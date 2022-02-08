@@ -38,14 +38,14 @@
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 
 <a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce">
-  <img src="e-homepage.jpeg" alt="SuperSale" style="width:200px;height:300px;border:2">
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="e-commerce.jpeg" alt="SuperSale" style="width:200px;height:300px;border:2">
+</a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce">
  <img src="e-footer.jpeg" alt="McdonaldsOffer" style="width:200px;height:300px;border:2">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce">
  <img src="e-category.jpeg" alt="e-signup.jpeg" style="width:200px;height:300px;border:2">
-</a>
+</a>-->
 
 <br><br><br>
 <h2>2. Chef's Cuisine Website UI Design</h2>
