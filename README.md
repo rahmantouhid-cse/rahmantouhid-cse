@@ -46,7 +46,7 @@
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 
 <a href="https://www.figma.com/proto/3vnu9KmzUhzNDnmgJCQQkx/Chefs-Cuisine-Website">
-  <img  src="chef.jpeg" alt="chefs cuisine ui design" style="width="1055"; height="400"; border:2" >
+  <img  src="chef.jpeg" alt="chefs cuisine ui design" style="width="920"; height="350"; border:2" >
 </a>
 
 <br><br><br>
@@ -66,7 +66,7 @@
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 
 <a href="https://www.figma.com/proto/64XuEOAKIpMHQaGET4Hdvi/Parallax">
-  <img src="parallax.jpeg" alt="nightsky-parallax" style="width="1170"; height="400"; border:2" >
+  <img src="parallax.jpeg" alt="nightsky-parallax" style="width="880"; height="300"; border:2" >
 </a>
 
 
@@ -75,7 +75,7 @@
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 
 <a href="https://www.figma.com/proto/dZVrzcJT1PPZDBH6B8NSWd/AirpodsPro">
-  <img src="airpods.jpeg" alt="AirPodsSlideIn" style="width="1120"; height="400"; border:2" >
+  <img src="airpods.jpeg" alt="AirPodsSlideIn" style="width="840"; height="300"; border:2" >
 </a>
 
 <br><br><br>
