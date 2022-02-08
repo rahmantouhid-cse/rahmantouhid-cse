@@ -100,11 +100,14 @@
 <h2>5. Dashboard Design (Dark Mode)</h2>
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 <a href="https://www.figma.com/proto/xI0VdpWzbmHi42xnsPbCHL/Dashboard-Health-App">
+  <img src="dashboard.jpeg" alt="DarkMode" style="width:225px;height:160px;border:2">
+</a>
+<!--<a href="https://www.figma.com/proto/xI0VdpWzbmHi42xnsPbCHL/Dashboard-Health-App">
   <img src="DarkMode1.png" alt="DarkMode" style="width:225px;height:160px;border:2">
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.figma.com/proto/xI0VdpWzbmHi42xnsPbCHL/Dashboard-Health-App">
   <img src="DarkMode2.png" alt="DarkMode" style="width:225px;height:160px;border:2">
-</a>
+</a>-->
 
 <br><br><br>
 <h2>6. Promotional/Sale Banner Design</h2>
