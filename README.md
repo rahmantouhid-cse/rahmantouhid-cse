@@ -38,7 +38,7 @@
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 
 <a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce">
-  <img src="amazin.jpeg" alt="SuperSale" style="border:2">
+  <img src="amazin.jpeg" alt="SuperSale" style="width="900"; height="500"; border:2">
 </a>
 
 <br><br><br>
