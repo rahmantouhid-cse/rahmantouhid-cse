@@ -38,27 +38,15 @@
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 
 <a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce">
-  <img src="e-commerce.jpeg" alt="SuperSale" style="border:2">
-</a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce">
- <img src="e-footer.jpeg" alt="McdonaldsOffer" style="width:200px;height:300px;border:2">
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce">
- <img src="e-category.jpeg" alt="e-signup.jpeg" style="width:200px;height:300px;border:2">
-</a>-->
+  <img src="amazin.jpeg" alt="SuperSale" style="border:2">
+</a>
 
 <br><br><br>
 <h2>2. Chef's Cuisine Website UI Design</h2>
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 
 <a href="https://www.figma.com/proto/3vnu9KmzUhzNDnmgJCQQkx/Chefs-Cuisine-Website">
-  <img src="chefs cuisine ui design.png" alt="chefs cuisine ui design" class="center" style="margin:auto;width:225px;height:290px;border:2">
-</a></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.figma.com/proto/3vnu9KmzUhzNDnmgJCQQkx/Chefs-Cuisine-Website">
-  <img src="2.png" alt="chefs cuisine ui design" style="width:200px;height:180px;border:2">
-</a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.figma.com/proto/3vnu9KmzUhzNDnmgJCQQkx/Chefs-Cuisine-Website">
-  <img src="3.png" alt="chefs cuisine ui design" style="width:200px;height:180px;border:2">
+  <img src="chef.jpeg" alt="chefs cuisine ui design" class="center" >
 </a>
 
 <br><br><br>
@@ -68,7 +56,7 @@
 
 
 <a href="https://www.figma.com/proto/aKL2Gm4PSbwFSktz4HNiFM/Apple-Landing-Page">
-  <img src="apple.png" alt="apple" style="width:200px;height:300px;border:2">
+  <img src="landing-page.jpeg" alt="apple" >
 </a>
 
 <br><br><br>
@@ -78,10 +66,7 @@
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 
 <a href="https://www.figma.com/proto/64XuEOAKIpMHQaGET4Hdvi/Parallax">
-  <img src="nightsky-parallax1.png" alt="nightsky-parallax" style="width:225px;height:120px;border:2">
-</a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.figma.com/proto/64XuEOAKIpMHQaGET4Hdvi/Parallax">
-  <img src="nightsky-parallax.png" alt="nightsky-parallax" style="width:225px;height:120px;border:2">
+  <img src="parallax.jpeg" alt="nightsky-parallax" >
 </a>
 
 
@@ -90,24 +75,15 @@
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 
 <a href="https://www.figma.com/proto/dZVrzcJT1PPZDBH6B8NSWd/AirpodsPro">
-  <img src="AirPodsSlideIn.png" alt="AirPodsSlideIn" style="width:225px;height:125px;border:2">
-</a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.figma.com/proto/dZVrzcJT1PPZDBH6B8NSWd/AirpodsPro">
-  <img src="AirPodsSlideIn1.png" alt="AirPodsSlideIn" style="width:225px;height:125px;border:2">
+  <img src="airpods.jpeg" alt="AirPodsSlideIn" >
 </a>
 
 <br><br><br>
 <h2>5. Dashboard Design (Dark Mode)</h2>
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 <a href="https://www.figma.com/proto/xI0VdpWzbmHi42xnsPbCHL/Dashboard-Health-App">
-  <img src="dashboard.jpeg" alt="DarkMode" style="width:500px;height:250px;border:2">
+  <img src="dashboard.jpeg" alt="DarkMode" >
 </a>
-<!--<a href="https://www.figma.com/proto/xI0VdpWzbmHi42xnsPbCHL/Dashboard-Health-App">
-  <img src="DarkMode1.png" alt="DarkMode" style="width:225px;height:160px;border:2">
-</a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.figma.com/proto/xI0VdpWzbmHi42xnsPbCHL/Dashboard-Health-App">
-  <img src="DarkMode2.png" alt="DarkMode" style="width:225px;height:160px;border:2">
-</a>-->
 
 <br><br><br>
 <h2>6. Promotional/Sale Banner Design</h2>
