@@ -114,19 +114,19 @@
   <img src="NikeSuperSale.png" alt="NikeSuperSale" style="width:225px;height:112px;border:2">
 </a>
  &nbsp;&nbsp;&nbsp;
-<a href="https://www.figma.com/file/IL6BhiwcC7APnhSohBQdca/Nike-sale">
+<a href="https://www.figma.com/file/9lAXRmf1HrQJTZ3BEk2HgC/SuperSale">
   <img src="super-sale.png" alt="NikeSuperSale" style="width:225px;height:112px;border:2">
 </a>
  &nbsp;&nbsp;&nbsp;
-<a href="https://www.figma.com/file/IL6BhiwcC7APnhSohBQdca/Nike-sale">
+<a href="https://www.figma.com/file/Co5Ct0OZiUbgUM9szoJs64/Beats-Offer">
   <img src="beats-offer.png" alt="NikeSuperSale" style="width:225px;height:112px;border:2">
 </a>
  &nbsp;&nbsp;&nbsp;
-<a href="https://www.figma.com/file/IL6BhiwcC7APnhSohBQdca/Nike-sale">
+<a href="https://www.figma.com/file/E5Msk6YDEpLVgFrJfTonqz/OnePlus-10-Pro">
   <img src="oneplus-offer.png" alt="NikeSuperSale" style="width:225px;height:112px;border:2">
 </a>
  &nbsp;&nbsp;&nbsp;
-<a href="https://www.figma.com/file/IL6BhiwcC7APnhSohBQdca/Nike-sale">
+<a href="https://www.figma.com/file/UmDZQhR5tMkFTAsUyrPpwA/MacBookPro-Offer">
   <img src="macbook-offer.png" alt="NikeSuperSale" style="width:225px;height:112px;border:2">
 </a>
  
