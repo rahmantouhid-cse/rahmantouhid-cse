@@ -31,7 +31,7 @@
 <h2>1. E-commerce Website UI Design</h2>
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 
-<a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce?page-id=54%3A592&node-id=138%3A38838&viewport=250%2C48%2C0.05&scaling=scale-down-width&starting-point-node-id=138%3A38838">
+<a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce">
   <img src="amazin.jpeg" alt="SuperSale" style="width="600"; height="300"; border:2">
 </a>
 
