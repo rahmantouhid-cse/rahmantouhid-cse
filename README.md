@@ -84,19 +84,19 @@
 <h6>Click on the project screen-shots to see the Full Detailed Images 👇🏻👇🏽</h6>
 
 <a href="https://www.figma.com/file/IL6BhiwcC7APnhSohBQdca/Nike-sale">
-  <img src="NikeSuperSale.png" alt="NikeSuperSale" style="width:225px;height:112px;border:2">
+  <img src="NikeSuperSale.png" alt="NikeSuperSale" style="width:300px;height:150px;border:2">
 </a>
  &nbsp;&nbsp;&nbsp;
 <a href="https://www.figma.com/file/9lAXRmf1HrQJTZ3BEk2HgC/SuperSale">
-  <img src="super-sale.png" alt="NikeSuperSale" style="width:225px;height:112px;border:2">
+  <img src="super-sale.png" alt="NikeSuperSale" style="width:300px;height:150px;border:2">
 </a>
  &nbsp;&nbsp;&nbsp;
 <a href="https://www.figma.com/file/Co5Ct0OZiUbgUM9szoJs64/Beats-Offer">
-  <img src="beats-offer.png" alt="NikeSuperSale" style="width:225px;height:112px;border:2">
+  <img src="beats-offer.png" alt="NikeSuperSale" style="width:300px;height:150px;border:2">
 </a>
  &nbsp;&nbsp;&nbsp;
 <a href="https://www.figma.com/file/E5Msk6YDEpLVgFrJfTonqz/OnePlus-10-Pro">
-  <img src="oneplus-offer.png" alt="NikeSuperSale" style="width:225px;height:112px;border:2">
+  <img src="oneplus-offer.png" alt="NikeSuperSale" style="width:300px;height:150px;border:2">
 </a>
 
  
