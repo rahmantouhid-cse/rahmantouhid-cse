@@ -1,5 +1,5 @@
 
-<img src="Bannner.png" width="1000">
+<img src="banner.jpeg" width="1000">
 
 
 <img align="right" src="coding.gif" width="300">
