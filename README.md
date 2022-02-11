@@ -49,7 +49,7 @@
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 
 
-<a href="https://www.figma.com/proto/aKL2Gm4PSbwFSktz4HNiFM/Apple-Landing-Page">
+<a href="https://www.figma.com/proto/6YymHfpKihXqvn6xUSrDrC/Apple-Landing-Page">
   <img src="landing-page.jpeg" alt="apple" style="width="280"; height="400"; border:2" >
 </a>
 
