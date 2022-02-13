@@ -31,7 +31,7 @@
 <h2>1. E-commerce Website UI Design</h2>
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 
-<a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce?page-id=54%3A592&node-id=138%3A38838&viewport=250%2C48%2C0.05&scaling=scale-down&starting-point-node-id=138%3A38838">
+<a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce?page-id=54%3A592&node-id=138%3A38838&viewport=250%2C48%2C0.05&scaling=scale-down-width&starting-point-node-id=138%3A38838">
   <img src="amazin.jpeg" alt="SuperSale" style="width="600"; height="300"; border:2">
 </a>
 
@@ -39,7 +39,7 @@
 <h2>2. Chef's Cuisine Website UI Design</h2>
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 
-<a href="https://www.figma.com/proto/3vnu9KmzUhzNDnmgJCQQkx/Chefs-Cuisine-Website?page-id=0%3A1&node-id=1%3A2&viewport=250%2C48%2C0.72&scaling=scale-down">
+<a href="https://www.figma.com/proto/3vnu9KmzUhzNDnmgJCQQkx/Chefs-Cuisine-Website?page-id=0%3A1&node-id=26%3A22&starting-point-node-id=26%3A22&scaling=scale-down-width">
   <img  src="chef.jpeg" alt="chefs cuisine ui design" style="width="790"; height="300"; border:2" >
 </a>
 
@@ -49,7 +49,7 @@
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 
 
-<a href="https://www.figma.com/proto/6YymHfpKihXqvn6xUSrDrC/Apple-Landing-Page?page-id=0%3A1&node-id=1%3A2&viewport=250%2C48%2C0.72&scaling=scale-down">
+<a href="https://www.figma.com/proto/6YymHfpKihXqvn6xUSrDrC/Apple-Landing-Page?page-id=0%3A1&node-id=1%3A2&starting-point-node-id=1%3A2&scaling=scale-down-width">
   <img src="landing-page.jpeg" alt="apple" style="width="280"; height="400"; border:2" >
 </a>
 
@@ -59,7 +59,7 @@
 <h3>Parallax Effect</h3>
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 
-<a href="https://www.figma.com/proto/64XuEOAKIpMHQaGET4Hdvi/Parallax?page-id=0%3A1&node-id=1%3A2&viewport=250%2C48%2C0.72&scaling=scale-down">
+<a href="https://www.figma.com/proto/64XuEOAKIpMHQaGET4Hdvi/Parallax?page-id=0%3A1&node-id=7%3A806&starting-point-node-id=1%3A663&scaling=scale-down-width">
   <img src="parallax.jpeg" alt="nightsky-parallax" style="width="880"; height="300"; border:2" >
 </a>
 
@@ -68,14 +68,14 @@
 <h3>Slide Effect</h3>
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 
-<a href="https://www.figma.com/proto/dZVrzcJT1PPZDBH6B8NSWd/AirpodsPro?page-id=0%3A1&node-id=1%3A2&viewport=250%2C48%2C0.72&scaling=scale-down">
+<a href="https://www.figma.com/proto/dZVrzcJT1PPZDBH6B8NSWd/AirpodsPro?page-id=0%3A1&node-id=1%3A67&starting-point-node-id=1%3A67&scaling=scale-down-width">
   <img src="airpods.jpeg" alt="AirPodsSlideIn" style="width="840"; height="300"; border:2" >
 </a>
 
 <br><br><br>
 <h2>5. Dashboard Design (Dark Mode)</h2>
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
-<a href="https://www.figma.com/proto/xI0VdpWzbmHi42xnsPbCHL/Dashboard-Health-App?page-id=0%3A1&node-id=1%3A2&viewport=250%2C48%2C0.72&scaling=scale-down">
+<a href="https://www.figma.com/proto/xI0VdpWzbmHi42xnsPbCHL/Dashboard-Health-App?page-id=0%3A1&node-id=57%3A44&starting-point-node-id=57%3A44&scaling=scale-down-width">
   <img src="dashboard.jpeg" alt="DarkMode" style="width="680"; height="300"; border:2" >
 </a>
 
