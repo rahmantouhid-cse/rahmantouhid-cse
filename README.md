@@ -59,7 +59,7 @@
 <h3>Parallax Effect</h3>
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 
-<a href="https://www.figma.com/proto/64XuEOAKIpMHQaGET4Hdvi/Parallax?page-id=0%3A1&node-id=7%3A806&starting-point-node-id=1%3A663&scaling=scale-down-width">
+<a href="https://www.figma.com/proto/64XuEOAKIpMHQaGET4Hdvi/Parallax?page-id=0%3A1&node-id=7%3A806&viewport=250%2C48%2C0.17&scaling=scale-down-width&starting-point-node-id=1%3A663">
   <img src="parallax.jpeg" alt="nightsky-parallax" style="width="880"; height="300"; border:2" >
 </a>
 
