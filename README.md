@@ -24,9 +24,26 @@
 <br><br>
 <h1 align="center">Projects</h1>
 
+<br><br>
+<h2>1. E-commerce App UI Design</h2>
+<h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
+
+<a href="https://www.figma.com/proto/IVF93NYNNrgPmVYZMhsvx8/E-commerce-App?page-id=0%3A1&node-id=77%3A721&viewport=241%2C48%2C0.49&scaling=scale-down&starting-point-node-id=77%3A721">
+  <img src="amazin-app.png" alt="SuperSale" style="width="900"; height="500"; border:2">
+</a>
+
+<br><br><br>
+<h2>2. Chef's Cuisine Delivery App UI Design</h2>
+<h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
+
+<a href="https://www.figma.com/proto/9MPF9iJrT9NLe1qxHUgB55/Food-App?page-id=0%3A1&node-id=61%3A401&viewport=241%2C48%2C0.51&scaling=scale-down&starting-point-node-id=61%3A401">
+  <img  src="delivery-app.png" alt="chefs cuisine ui design" style="width="1000"; height="550"; border:2" >
+</a>
+
+
 
 <br><br>
-<h2>1. E-commerce Website UI Design</h2>
+<h2>3. E-commerce Website UI Design</h2>
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 
 <a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce?page-id=54%3A592&node-id=138%3A38838&viewport=250%2C48%2C0.05&scaling=scale-down-width&starting-point-node-id=138%3A38838">
@@ -34,7 +51,7 @@
 </a>
 
 <br><br><br>
-<h2>2. Chef's Cuisine Website UI Design</h2>
+<h2>4. Chef's Cuisine Website UI Design</h2>
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 
 <a href="https://www.figma.com/proto/3vnu9KmzUhzNDnmgJCQQkx/Chefs-Cuisine-Website?page-id=0%3A1&node-id=26%3A22&starting-point-node-id=26%3A22&scaling=scale-down-width">
@@ -42,7 +59,7 @@
 </a>
 
 <br><br><br>
-<h2>3. Apple Landing Page Design</h2>
+<h2>5. Apple Landing Page Design</h2>
 
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 
@@ -52,7 +69,7 @@
 </a>
 
 <br><br><br>
-<h2>4. Animated Webpage Design</h2>
+<h2>6. Animated Webpage Design</h2>
 
 <h3>Parallax Effect</h3>
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
@@ -71,14 +88,14 @@
 </a>
 
 <br><br><br>
-<h2>5. Dashboard Design (Dark Mode)</h2>
+<h2>7. Dashboard Design (Dark Mode)</h2>
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 <a href="https://www.figma.com/proto/xI0VdpWzbmHi42xnsPbCHL/Dashboard-Health-App?page-id=0%3A1&node-id=57%3A44&starting-point-node-id=57%3A44&scaling=scale-down-width">
   <img src="dashboard.jpeg" alt="DarkMode" style="width="680"; height="300"; border:2" >
 </a>
 
 <br><br><br>
-<h2>6. Promotional/Sale Banner Design</h2>
+<h2>8. Promotional/Sale Banner Design</h2>
 <h6>Click on the project screen-shots to see the Full Detailed Images 👇🏻👇🏽</h6>
 
 <a href="https://www.figma.com/proto/IL6BhiwcC7APnhSohBQdca/Nike-sale?page-id=0%3A1&node-id=1%3A2&viewport=250%2C48%2C0.54&scaling=scale-down">
