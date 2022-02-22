@@ -38,7 +38,7 @@
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 
 <a href="https://www.figma.com/proto/3vnu9KmzUhzNDnmgJCQQkx/Chefs-Cuisine-Website?page-id=0%3A1&node-id=26%3A22&starting-point-node-id=26%3A22&scaling=scale-down-width">
-  <img  src="chef.jpeg" alt="chefs cuisine ui design" style="width="790"; height="300"; border:2" >
+  <img  src="chef.png" alt="chefs cuisine ui design" style="width="790"; height="300"; border:2" >
 </a>
 
 <br><br><br>
