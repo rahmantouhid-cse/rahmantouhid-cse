@@ -29,7 +29,7 @@
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 
 <a href="https://www.figma.com/proto/IVF93NYNNrgPmVYZMhsvx8/E-commerce-App?page-id=0%3A1&node-id=77%3A721&viewport=241%2C48%2C0.49&scaling=scale-down&starting-point-node-id=77%3A721">
-  <img src="amazin-app.png" alt="SuperSale" style="width="900"; height="500"; border:2">
+  <img src="huda.png" alt="SuperSale" style="width="900"; height="500"; border:2">
 </a>
 
 <br><br><br>
@@ -37,7 +37,7 @@
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 
 <a href="https://www.figma.com/proto/9MPF9iJrT9NLe1qxHUgB55/Food-App?page-id=0%3A1&node-id=61%3A401&viewport=241%2C48%2C0.51&scaling=scale-down&starting-point-node-id=61%3A401">
-  <img  src="delivery-app.png" alt="chefs cuisine ui design" style="width="1000"; height="550"; border:2" >
+  <img  src="type.png" alt="chefs cuisine ui design" style="width="1000"; height="550"; border:2" >
 </a>
 
 
