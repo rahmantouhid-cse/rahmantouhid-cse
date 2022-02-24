@@ -80,11 +80,11 @@
 
 
 <br><br><br>
-<h3>Slide Effect</h3>
+<h3>Sliding Effect</h3>
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 
 <a href="https://www.figma.com/proto/dZVrzcJT1PPZDBH6B8NSWd/AirpodsPro?page-id=0%3A1&node-id=1%3A67&starting-point-node-id=1%3A67&scaling=scale-down-width">
-  <img src="web-airpods.png" alt="AirPodsSlideIn" style="width="900"; height="500"; border:2" >
+  <img src="web-slide.png" alt="AirPodsSlideIn" style="width="900"; height="500"; border:2" >
 </a>
 
 <br><br><br>
