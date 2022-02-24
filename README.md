@@ -29,7 +29,7 @@
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 
 <a href="https://www.figma.com/proto/IVF93NYNNrgPmVYZMhsvx8/E-commerce-App?page-id=0%3A1&node-id=77%3A721&viewport=241%2C48%2C0.49&scaling=scale-down&starting-point-node-id=77%3A721">
-  <img src="app-amazin.png" alt="SuperSale" style="width="900"; height="500"; border:2">
+  <img src="app-ecommerce.png" alt="SuperSale" style="width="900"; height="500"; border:2">
 </a>
 
 <br><br><br>
@@ -37,7 +37,7 @@
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 
 <a href="https://www.figma.com/proto/9MPF9iJrT9NLe1qxHUgB55/Food-App?page-id=0%3A1&node-id=61%3A401&viewport=241%2C48%2C0.51&scaling=scale-down&starting-point-node-id=61%3A401">
-  <img  src="app-delivery.png" alt="chefs cuisine ui design" style="width="1000"; height="550"; border:2" >
+  <img  src="app-food.png" alt="chefs cuisine ui design" style="width="1000"; height="550"; border:2" >
 </a>
 
 
@@ -47,7 +47,7 @@
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 
 <a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce?page-id=54%3A592&node-id=138%3A38838&viewport=250%2C48%2C0.05&scaling=scale-down-width&starting-point-node-id=138%3A38838">
-  <img src="amazin.jpeg" alt="SuperSale" style="width="600"; height="300"; border:2">
+  <img src="web-ecommerce.png" alt="SuperSale" style="width="900"; height="500"; border:2">
 </a>
 
 <br><br><br>
@@ -55,7 +55,7 @@
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 
 <a href="https://www.figma.com/proto/3vnu9KmzUhzNDnmgJCQQkx/Chefs-Cuisine-Website?page-id=0%3A1&node-id=26%3A22&starting-point-node-id=26%3A22&scaling=scale-down-width">
-  <img  src="chef.png" alt="chefs cuisine ui design" style="width="790"; height="300"; border:2" >
+  <img  src="web-food.png" alt="chefs cuisine ui design" style="width="900"; height="500"; border:2" >
 </a>
 
 <br><br><br>
@@ -65,7 +65,7 @@
 
 
 <a href="https://www.figma.com/proto/6YymHfpKihXqvn6xUSrDrC/Apple-Landing-Page?page-id=0%3A1&node-id=1%3A2&starting-point-node-id=1%3A2&scaling=scale-down-width">
-  <img src="landing-page.jpeg" alt="apple" style="width="280"; height="400"; border:2" >
+  <img src="web-landing.png" alt="apple" style="width="900"; height="500"; border:2" >
 </a>
 
 <br><br><br>
@@ -75,7 +75,7 @@
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 
 <a href="https://www.figma.com/proto/64XuEOAKIpMHQaGET4Hdvi/Parallax?page-id=0%3A1&node-id=1%3A663&viewport=250%2C48%2C0.17&scaling=scale-down-width&starting-point-node-id=1%3A663">
-  <img src="parallax.jpeg" alt="nightsky-parallax" style="width="880"; height="300"; border:2" >
+  <img src="web-parallax.png" alt="nightsky-parallax" style="width="900"; height="500"; border:2" >
 </a>
 
 
@@ -84,14 +84,14 @@
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 
 <a href="https://www.figma.com/proto/dZVrzcJT1PPZDBH6B8NSWd/AirpodsPro?page-id=0%3A1&node-id=1%3A67&starting-point-node-id=1%3A67&scaling=scale-down-width">
-  <img src="airpods.jpeg" alt="AirPodsSlideIn" style="width="840"; height="300"; border:2" >
+  <img src="web-airpods.png" alt="AirPodsSlideIn" style="width="900"; height="500"; border:2" >
 </a>
 
 <br><br><br>
 <h2>7. Dashboard Design (Dark Mode)</h2>
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 <a href="https://www.figma.com/proto/xI0VdpWzbmHi42xnsPbCHL/Dashboard-Health-App?page-id=0%3A1&node-id=57%3A44&starting-point-node-id=57%3A44&scaling=scale-down-width">
-  <img src="dashboard.jpeg" alt="DarkMode" style="width="680"; height="300"; border:2" >
+  <img src="app-dashboard.png" alt="DarkMode" style="width="900"; height="500"; border:2" >
 </a>
 
 <br><br><br>
