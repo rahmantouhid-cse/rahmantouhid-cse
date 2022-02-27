@@ -22,8 +22,10 @@
 
 <br><br>
 <h3 align="left">My Resume:</h3>
-<h5>Click on the download button to see the full resume 👉🏻👇🏻</h5>
-<p align="center"><img src="resume-button.png" alt="SuperSale" style="width="50"; height="50"; border:2"></p>
+
+<h4>If you want to know more about myself then you can download my full Resume by clicking the "Download Resume" button from below 👇🏻</h4><br>
+<a href="https://drive.google.com/file/d/1bLHj3KjYsuHWh9tf5WVpzLCgmb4m-ziJ/view?usp=sharing">
+<p align="center"><img src="resume-button.png" alt="SuperSale" style="width="50"; height="50"; border:2"></p></a>
  
  
 <br><br>
