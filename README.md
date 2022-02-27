@@ -36,7 +36,7 @@
 <h2>1. E-commerce App UI Design</h2>
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 
-<a href="https://www.figma.com/proto/IVF93NYNNrgPmVYZMhsvx8/E-commerce-App?page-id=0%3A1&node-id=77%3A721&viewport=241%2C48%2C0.49&scaling=scale-down&starting-point-node-id=77%3A721">
+<a href="https://www.behance.net/gallery/138007335/E-Commerce-Mobile-App">
   <img src="app-ecommerce.png" alt="SuperSale" style="width="900"; height="500"; border:2">
 </a>
 
@@ -44,45 +44,42 @@
 <h2>2. Chef's Cuisine Delivery App UI Design</h2>
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 
-<a href="https://www.figma.com/proto/9MPF9iJrT9NLe1qxHUgB55/Food-App?page-id=0%3A1&node-id=61%3A401&viewport=241%2C48%2C0.51&scaling=scale-down&starting-point-node-id=61%3A401">
+<a href="https://www.behance.net/gallery/138007573/Food-Delivery-Mobile-App">
   <img  src="app-food.png" alt="chefs cuisine ui design" style="width="1000"; height="550"; border:2" >
 </a>
 
-
-
-<br><br>
-<h2>3. E-commerce Website UI Design</h2>
-<h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
-
-<a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce?page-id=54%3A592&node-id=138%3A38838&viewport=250%2C48%2C0.05&scaling=scale-down-width&starting-point-node-id=138%3A38838">
-  <img src="web-ecommerce.png" alt="SuperSale" style="width="900"; height="500"; border:2">
-</a>
-
 <br><br><br>
-<h2>4. Chef's Cuisine Website UI Design</h2>
+ <h2>3. Chef's Cuisine Website UI Design</h2>
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 
-<a href="https://www.figma.com/proto/3vnu9KmzUhzNDnmgJCQQkx/Chefs-Cuisine-Website?page-id=0%3A1&node-id=26%3A22&starting-point-node-id=26%3A22&scaling=scale-down-width">
+<a href="https://www.behance.net/gallery/137112921/Chefs-Cuisine-Website">
   <img  src="web-food.png" alt="chefs cuisine ui design" style="width="900"; height="500"; border:2" >
 </a>
 
-<br><br><br>
-<h2>5. Apple Landing Page Design</h2>
-
+<br><br>
+<h2>4. E-commerce Website UI Design</h2>
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 
-
-<a href="https://www.figma.com/proto/6YymHfpKihXqvn6xUSrDrC/Apple-Landing-Page?page-id=0%3A1&node-id=1%3A2&starting-point-node-id=1%3A2&scaling=scale-down-width">
-  <img src="web-landing.png" alt="apple" style="width="900"; height="500"; border:2" >
+<a href="https://www.behance.net/gallery/137108279/E-Commerce-Website-Design">
+  <img src="web-ecommerce.png" alt="SuperSale" style="width="900"; height="500"; border:2">
+</a>
+ 
+ 
+<br><br><br>
+ <h2>5. Dashboard Design (Dark Mode)</h2>
+<h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
+<a href="https://www.behance.net/gallery/137118359/Dashboard-UI-%28w-Dark-Mode%29">
+  <img src="app-dashboard.png" alt="DarkMode" style="width="900"; height="500"; border:2" >
 </a>
 
+ 
 <br><br><br>
 <h2>6. Animated Webpage Design</h2>
 
 <h3>Parallax Effect</h3>
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 
-<a href="https://www.figma.com/proto/64XuEOAKIpMHQaGET4Hdvi/Parallax?page-id=0%3A1&node-id=1%3A663&viewport=250%2C48%2C0.17&scaling=scale-down-width&starting-point-node-id=1%3A663">
+<a href="https://www.behance.net/gallery/137112353/Parallax-Animation">
   <img src="web-parallax.png" alt="nightsky-parallax" style="width="900"; height="500"; border:2" >
 </a>
 
@@ -91,17 +88,18 @@
 <h3>Sliding Effect</h3>
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 
-<a href="https://www.figma.com/proto/dZVrzcJT1PPZDBH6B8NSWd/AirpodsPro?page-id=0%3A1&node-id=1%3A67&starting-point-node-id=1%3A67&scaling=scale-down-width">
+<a href="https://www.behance.net/gallery/137118771/Animated-Product-Design">
   <img src="web-slide.png" alt="AirPodsSlideIn" style="width="900"; height="500"; border:2" >
 </a>
 
 <br><br><br>
-<h2>7. Dashboard Design (Dark Mode)</h2>
+<h2>7. Apple Landing Page Design</h2>
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
-<a href="https://www.figma.com/proto/xI0VdpWzbmHi42xnsPbCHL/Dashboard-Health-App?page-id=0%3A1&node-id=57%3A44&starting-point-node-id=57%3A44&scaling=scale-down-width">
-  <img src="app-dashboard.png" alt="DarkMode" style="width="900"; height="500"; border:2" >
+<a href="https://www.behance.net/gallery/137312713/Landing-Page-%28Apple%29">
+  <img src="web-landing.png" alt="apple" style="width="900"; height="500"; border:2" >
 </a>
-
+ 
+ 
 <br><br><br>
 <h2>8. Promotional/Sale Banner Design</h2>
 <h6>Click on the project screen-shots to see the Full Detailed Images 👇🏻👇🏽</h6>
@@ -122,5 +120,4 @@
   <img src="oneplus-offer.png" alt="NikeSuperSale" style="width:300px;height:150px;border:2">
 </a>
 
- 
 
