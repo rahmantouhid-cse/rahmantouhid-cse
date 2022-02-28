@@ -96,7 +96,7 @@
 <h2>7. Apple Landing Page Design</h2>
 <h6>Click on the project screen-shots to see the LIVE DEMO 👇🏻👇🏽</h6>
 <a href="https://www.behance.net/gallery/137312713/Landing-Page-%28Apple%29">
-  <img src="web-landing.png" alt="apple" style="width="900"; height="500"; border:2" >
+  <img src="web-landingpage.png" alt="apple" style="width="900"; height="500"; border:2" >
 </a>
  
  
